@@ -15,13 +15,13 @@ The technique requires people to answer a series of nine questions as follows:
 
 | Number | Question |
 | ------ | -------- |
-| f1 | Does the Father know He is the Father or He does He know is not the Father? |
+| f1 | Does the Father know He is the Father or does He know is not the Father? |
 | f2 | Does the Father know He is the Son or does He know He is not the Son? |
 | f3 | Does the Father know He is the Holy Spirit or does He know He is not the Holy Spirit? |
-| s1 | Does the Son know He is the Father or He does He know is not the Father? |
+| s1 | Does the Son know He is the Father or does He know is not the Father? |
 | s2 | Does the Son know He is the Son or does He know He is not the Son? |
 | s3 | Does the Son know He is the Holy Spirit or does He know He is not the Holy Spirit? |
-| h1 | Does the Holy Spirit know He is the Father or He does He know is not the Father? |
+| h1 | Does the Holy Spirit know He is the Father or does He know is not the Father? |
 | h2 | Does the Holy Spirit know He is the Son or does He know He is not the Son? |
 | h3 | Does the Holy Spirit know He is the Holy Spirit or does He know He is not the Holy Spirit? |
 
