@@ -6,3 +6,5 @@ A formalized argument delving into the Epistemic Problem found in the way Trinit
 
 ## [Jesus is Muslim](/jesus_is_muslim) (9-Sep-2025)
 Conversations regarding why Jesus is Muslim
+
+## [Refutation of Analogies for Trinity](/analogies/analogies)
