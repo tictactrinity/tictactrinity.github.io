@@ -1,4 +1,3 @@
-# Tictactrinity
 ###### Author: Fasih Rana
 Welcome to my blog, where I present some of the arguments against Trinitarianism and Christianity as well as tackle some of the arguments people bring against Islam.
 
