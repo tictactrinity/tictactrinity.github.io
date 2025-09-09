@@ -1,4 +1,7 @@
 # Water Analogy
+###### Author: Fasih Rana
+###### Date: 13-Mar-2025
+
 Christians often talk about water as an analogy to trinity. They will come and say that God is like water, it can exist as liquid, steam and ice or sometimes they will talk about a body of water. This is wrong on multiple levels.
 
 
