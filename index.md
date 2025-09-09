@@ -4,5 +4,5 @@ Welcome to my blog, where I present some of the arguments against Trinitarianism
 ## [Epistemic Problem of the Trinity](/epistemic_problem) (24-Apr-2025)
 A formalized argument delving into the Epistemic Problem found in the way Trinitarians describe the Trinity.
 
-## [Jesus is Muslim](/jesus_is_muslim) (10-Sep-2025)
+## [Jesus is Muslim](/jesus_is_muslim) (9-Sep-2025)
 Conversations regarding why Jesus is Muslim
