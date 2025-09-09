@@ -1,4 +1,6 @@
 # Jesus is Muslim
+###### Author: Fasih Rana
+###### Date: 9 September 2025
 
 Often times, Christians will come and question muslims on how Jesus is Muslim? Sometimes they will say "prove it according to your paradigm".
 
