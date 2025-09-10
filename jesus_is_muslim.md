@@ -4,13 +4,13 @@
 
 ###### Date: 9 September 2025
 
-Often times, Christians will come and question muslims on how Jesus is Muslim? Sometimes they will say "prove it according to your paradigm".
+Often times, Christians will come and question Muslims on how Jesus is Muslim? Sometimes they will say "prove it according to your paradigm".
 
 # Prove from Islamic Paradigm and Being Accused of Circular Reasoning
 
 One of the conversation will go something as follows:
 
-1. "How is Jesus muslim?" > "Because the Quran says so"
+1. "How is Jesus Muslim?" > "Because the Quran says so"
 2. "Why do you believe it?" > "I believe the Quran is the word of God"
 3. "How do you know it is the word of God?" ? "Because the Quran says so"
 4. "Oh so 'Quran is true, because it says that it is true'" > "Where in my reasoning did I make that claim yet?"
@@ -43,7 +43,7 @@ This is now changing the goalpost to Justification of the Source Authority all t
 
 The conversation starts with making a theological claim from a personally accepted Epistemic Authority, which in this case would be the Islamic Scriptures. Then they will try to shift it to Personal Beliefs, the first shift in goal post and a category shift of the question. Then they will start questioning the External Proof of the claims in the Quran which again moves the goal post and shifts the category of the question.
 
-By providing these you would’ve been consistent with the theological structure and belief without claiming *the Quran is true because the Quran says it is true*. What they confuse is:
+By providing these you would’ve been consistent with the theological structure and belief without claiming *the Quran is true because the Quran says it is true*. This is the crux of the argument, they ask for answers from, the Islamic Paradigm in this case, without accepting the answers or wanting to shift the questioning. What they confuse is:
 
 * Belief structure (what you trust)
 * With proof structure (what you're trying to prove).
