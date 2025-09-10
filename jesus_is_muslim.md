@@ -41,7 +41,7 @@ This is now changing the goalpost to Justification of the Source Authority all t
 
 ### Conclusion
 
-The conversation starts with making a theological claim from a personally accepted Epistemic Authority, which in this case would be the Islamic Scriptures. Then they will try to shift it to Personal Beliefs, the first shift in goal post and a category shift of the question. Then they will start questioning the External Proof of the claims in the Quran which again moves the goal post and shifts the category of the question.
+The conversation starts with making a theological claim from a personally accepted **Epistemic Authority**, which in this case would be the Islamic Scriptures. Then they will try to shift it to **Personal Beliefs**, which would be the first shift in goal post and a category shift of the question. Then they will start questioning the **External Proof** of the claims in the Quran which again moves the goal post and shifts the category of the question.
 
 By providing these you would’ve been consistent with the theological structure and belief without claiming *the Quran is true because the Quran says it is true*. This is the crux of the argument, they ask for answers from, the Islamic Paradigm in this case, without accepting the answers or wanting to shift the questioning. What they confuse is:
 
