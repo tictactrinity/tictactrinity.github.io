@@ -26,7 +26,7 @@ One of the conversation will go something as follows:
 
 2\. "Why do you believe it?" > "I believe the Quran is the word of God"
 
-3\. "How do you know it is the word of God?" ? "Because the Quran says so"
+3\. "How do you know it is the word of God?"? > "Because the Quran says so"
 
 4\. "Oh so 'Quran is true, because it says that it is true'" > "Where in my reasoning did I make that claim yet?"
 
@@ -40,7 +40,7 @@ At this point, they will start saying "this is circular reasoning". This might l
 
 
 
-\#### 1\\. "How is Jesus Muslim?"
+\#### 1. "How is Jesus Muslim?"
 
 
 
@@ -56,7 +56,7 @@ So your answer would be something like \*"Quran says so"\* or \*"Quran relays co
 
 
 
-\#### 2\\. "Why do you believe it?"
+\#### 2. "Why do you believe it?"
 
 
 
@@ -72,7 +72,7 @@ This is where you will be accused of using circular logic. This is an attempt to
 
 
 
-\#### 3\\. "So \*'Quran is true because it says that it is true'\*?"
+\#### 3. "So \*'Quran is true because it says that it is true'\*?"
 
 
 

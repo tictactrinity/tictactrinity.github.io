@@ -17,7 +17,7 @@ In the Gospel according to John, Jesus tells us exactly who the **only** true Go
 ###### *[2](https://biblehub.com/john/17-2.htm) For You granted Him authority over all people, so that He may give eternal life to all those You have given Him.*
 ###### *[3](https://biblehub.com/john/17-3.htm) Now this is eternal life, that they may know You, the only true God, and Jesus Christ, whom You have sent.*
 
-Here, Jesus specifically is talking to the "Father" and says that He is the one that gave Jesus the authority over "all people". Verse [three](#3) is specifically where Jesus singles out the "Father" as the only true God. Muslims specifically see this as Jesus saying his "shahada" (the testimony of faith). Another thing to note here is that the English translations of verse [three](#3) changes the order of how it is written in Greek.
+Here, Jesus specifically is talking to the "Father" and says that He is the one that gave Jesus the authority over "all people". Verse [three](https://biblehub.com/john/17-3.htm) is specifically where Jesus singles out the "Father" as the only true God. Muslims specifically see this as Jesus saying his "shahada" (the testimony of faith). Another thing to note here is that the English translations of verse [three](https://biblehub.com/john/17-3.htm) changes the order of how it is written in Greek.
 
 In the [Greek](https://biblehub.com/interlinear/john/17-3.htm) it is as follows:
 
