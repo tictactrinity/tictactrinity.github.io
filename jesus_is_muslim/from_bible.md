@@ -20,6 +20,7 @@ In the Gospel according to John, Jesus tells us exactly who the **only** true Go
 Here, Jesus specifically is talking to the "Father" and says that He is the one that gave Jesus the authority over "all people". Verse [three](#3) is specifically where Jesus singles out the "Father" as the only true God. Muslims specifically see this as Jesus saying his "shahada" (the testimony of faith). Another thing to note here is that the English translations of verse [three](#3) changes the order of how it is written in Greek.
 
 In the [Greek](https://biblehub.com/interlinear/john/17-3.htm) it is as follows:
+
 | **Strong's** | **Greek** | **English** |
 | --- | --- | --- |
 | [3778](https://biblehub.com/greek/3778.htm) [e](https://biblehub.com/greek/strongs_3778.htm) | αὕτη / [hautē](https://biblehub.com/greek/aute__3778.htm) | This |
