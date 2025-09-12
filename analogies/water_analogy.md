@@ -1,9 +1,8 @@
-# Water Analogy
+# [Analogies](/analogies/analogies) > Water Analogy
 ###### Author: Fasih Rana
 ###### Date: 13-Mar-2025
 
 Christians often talk about water as an analogy to trinity. They will come and say that God is like water, it can exist as liquid, steam and ice or sometimes they will talk about a body of water. This is wrong on multiple levels.
-
 
 ## 1. Composition
 As a direct implication of using water as an analogy, what they’re submitting to is that God is composed of three distinct things. One thing they do not take into account is that water exists as a composition of multiples of the same thing. For water to exist in a state, more than one molecule has to exist in the same collection. A single molecule of water cannot be solid, liquid or gas by itself as the molecule would just exist in a state of either lower energy or a high energy. One could even say that the molecule itself can exist on a spectrum of energy.

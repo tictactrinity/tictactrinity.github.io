@@ -1,4 +1,4 @@
-# Family Analogy
+# [Analogies](/analogies/analogies) > Family Analogy
 ###### Author: Fasih Rana
 ###### Date: 15-Mar-2025
 

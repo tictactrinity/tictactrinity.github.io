@@ -1,7 +1,5 @@
-# Jesus is Muslim > From Quran
-
+# [Jesus is Muslim](/jesus_is_muslim/jesus_is_muslim) > From Quran
 ###### Author: Fasih Rana
-
 ###### Date: 9 September 2025
 
 Often times, Christians will come and question Muslims on how Jesus is Muslim? Sometimes they will say "prove it according to your paradigm".
@@ -54,4 +52,3 @@ By providing these you would’ve been consistent with the theological structure
 * With proof structure (what you're trying to prove).
 
 You wouldn’t have committed circular reasoning. You just stated what you believe and why.
-
