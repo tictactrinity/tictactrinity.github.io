@@ -1,4 +1,4 @@
-# [Analogies](/analogies/analogies) > Water Analogy
+# [Analogies](/analogies/) > Water Analogy
 ###### Author: Fasih Rana
 ###### Date: 13-Mar-2025
 

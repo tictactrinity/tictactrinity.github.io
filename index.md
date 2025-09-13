@@ -10,10 +10,10 @@ A formalized argument delving into the Epistemic Problem found in the way Trinit
 
 ---
 
-#### [Jesus is Muslim](/jesus_is_muslim/jesus_is_muslim)
+#### [Jesus is Muslim](/jesus_is_muslim/)
 
 Conversations regarding why Jesus is Muslim
 
 ---
 
-#### [Refutation of Analogies for Trinity](/analogies/analogies)
+#### [Refutation of Analogies for Trinity](/analogies/)

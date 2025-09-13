@@ -1,4 +1,4 @@
-# [Jesus is Muslim](/jesus_is_muslim/jesus_is_muslim) > From Quran
+# [Jesus is Muslim](/jesus_is_muslim/) > From Quran
 ###### Author: Fasih Rana
 ###### Date: 9 September 2025
 
