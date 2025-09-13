@@ -9,5 +9,5 @@ A way to have a conversation about Jesus
 
 ---
 
-#### [From The Bible](/jesus_is_muslim/from_bible) (11-Sep-2025)
+#### [From Bible](/jesus_is_muslim/from_bible) (11-Sep-2025)
 Showing references to where Jesus and others tell us about Jesus which show he is a Muslim
