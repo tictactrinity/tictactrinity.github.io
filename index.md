@@ -16,4 +16,6 @@ Conversations regarding why Jesus is Muslim
 
 ---
 
-#### [Refutation of Analogies for Trinity](/analogies/)
+#### [Refutations](/refutations/)
+
+Various refutations, for analogies of trinity etc.
