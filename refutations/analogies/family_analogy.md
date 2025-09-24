@@ -1,4 +1,4 @@
-# [Analogies](/analogies/) > Family Analogy
+# [Refutations](/refutations/) > [Analogies](/refutations/analogies/) > Family Analogy
 ###### Author: Fasih Rana
 ###### Date: 15-Mar-2025
 
