@@ -6,7 +6,7 @@
 
 Christians often come and claim that Sins can only be forgiven with blood sacrifice and that God has to come down in flesh as Jesus to be the ultimate sacrifice so that there would be no more sacrifices after that. But is Blood Offering a requirement for forgiveness of sins?
 
-In [Hebrews 9:22](https://biblehub.com/hebrews/9-22.htm) is states *"... without the shedding of blood there is no forgiveness."* This is according to Paul as the authorship of Hebrews is attributed to him traditionally though modern scholarship says otherwise<sup>\[#1\]</sup>.
+In [Hebrews 9:22](https://biblehub.com/hebrews/9-22.htm) is states *"... without the shedding of blood there is no forgiveness."* This is according to Paul as the authorship of Hebrews is attributed to him traditionally though modern scholarship says otherwise<sup>[\[1\]](#1)</sup>.
 
 ## References
 ###### [1]
