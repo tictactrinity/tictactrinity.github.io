@@ -10,4 +10,4 @@ In [Hebrews 9:22](https://biblehub.com/hebrews/9-22.htm) is states *"... without
 
 ## References
 ###### [1]
-Donald Guthrie in _New Testament Introduction (1979)_, Harold Attridge, Daniel B. Wallace, R. C. Sproul all have said that this is not the work of an apostle or not specifically of Paul. Even Origen and Tertullian cast doubt on the authorship being attributed to Paul for the Epistle of Hebrews.
+Donald Guthrie in _New Testament Introduction (1979)_, Harold Attridge, Daniel B. Wallace have said that this is not the work of an apostle or not specifically of Paul. Even Origen and Tertullian cast doubt on the authorship being attributed to Paul for the Epistle of Hebrews.
