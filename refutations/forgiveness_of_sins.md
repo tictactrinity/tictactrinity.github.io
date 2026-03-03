@@ -17,9 +17,9 @@ In [Hebrews 9:22](https://biblehub.com/hebrews/9-22.htm) it states *"... without
 > [9](https://biblehub.com/leviticus/4-9.htm) both kidneys with the fat on them near the loins, and the lobe of the liver, which he is to remove with the kidneys—
 > [10](https://biblehub.com/leviticus/4-10.htm) just as the fat is removed from the ox of the peace offering. Then the priest shall burn them on the altar of burnt offering.
 > [11](https://biblehub.com/leviticus/4-11.htm) But the hide of the bull and all its flesh, with its head and legs and its entrails and dung—
-> [12](https://biblehub.com/leviticus/4-12.htm) all the rest of the bull—he must take outside the camp to a ceremonially clean place where the ashes are poured out, and there he must burn it on a wood fire on the ash heap.**
+> [12](https://biblehub.com/leviticus/4-12.htm) all the rest of the bull—he must take outside the camp to a ceremonially clean place where the ashes are poured out, and there he must burn it on a wood fire on the ash heap.
 
-This clearly states that the sin offering by the priest requires a young unblemished bull and the set of steps for the completion of it.
+This clearly states that the sin offering by the priest requires a young unblemished bull and the set of steps for the completion of it. Jesus was not in fact an unblemished young bull. While the apologetic Christian might be inclined to argue that it was metaphorical, or that the jews **didn't really understand it**, we shall point out that all of the prophets at least according to the Old Testament, never quite contradicted this law. Moreover as to why Jesus was not unblemished? First, Jesus was beaten so bad that he was **unrecognizable** even to the most near to him that knew him. Second, Jesus could not have been unblemished from the eighth day of his birth onwards. Why? Because Jesus was circumcised! Yes, the people, Christians, that argue that **Jesus is the way and the truth and the life**[John 14:6](https://biblehub.com/john/14-6.htm) don't actually follow the way Jesus sets for them to be circumcised, because they believe the words of Paul in [Romans 2:29](https://biblehub.com/romans/2-29.htm) to only have **circumcision of the heart**.
 
 ## References
 ###### [1]
