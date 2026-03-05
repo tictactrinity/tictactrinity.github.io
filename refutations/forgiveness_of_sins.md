@@ -42,9 +42,25 @@ Not only is this against what Paul preached, this is a clear indication of blood
 
 Again, no blood offering required for the atonement and only gold articles being offered. We see a consistent pattern here in the _old law_ according to the text that repeatedly blood offering is not something that was used as an absolute requirement for the atonement of sins. If this is not enough, we can also look at [1 Samuel](https://biblehub.com/1_samuel/15.htm).
 
-> [22](https://biblehub.com/1_samuel/15-22.htm) But Samuel replied: “Does the LORD delight in burnt offerings and sacrifices as much as in obeying the LORD? To obey is better than sacrifice, and to heed is better than the fat of rams.
+> [22](https://biblehub.com/1_samuel/15-22.htm) But Samuel replied:
+>
+>	“Does the LORD delight in burnt offerings and sacrifices
+>
+>		as much as in obeying the LORD?
+>
+>	To obey is better than sacrifice,
+>
+>		and to heed is better than the fat of rams.
+>
+>	[23](https://biblehub.com/1_samuel/15-23.htm) For rebellion is like the sin of divination,
+>
+>		and arrogance is like the wickedness of idolatry.
+>
+>	Because you have rejected the word of the LORD,
+>
+>		He has rejected you as king.”
 
-Here Samuel, a prophet of God in the Tanakh, speaking clearly that about what is more delightful to God.
+Here Samuel, a prophet of God in the Tanakh, speaking clearly that about what is more delightful to God is obedience.
 
 As we see throughout the Old Testament, there is no specific blood offering required for the atonement of sins. What is also evident is that Paul does not seem very familiar with the Jewish law in this regard. In fact, there are some scholars that argue this exact point. Lets look at some of these.
 
