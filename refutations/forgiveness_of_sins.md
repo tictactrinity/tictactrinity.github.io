@@ -65,7 +65,7 @@ Paul's lack of knowledge or his lack of focus on the importance of law has been 
 
 Schoeps<sup>[\[3\]](#3)</sup>, a Jewish scholar, argued that Paul fundamentally misunderstood Second Temple Judaism's relationship between covenant and Law. Another scholar, Hyam Maccoby<sup>[\[4\]](#4)</sup>, argued that Paul was not from the tribe of Benjamin as he claimed arguing that he was a Gentile convert from paganism to Judaism having "at best a dilettante's acquaintance with rabbinic Judaism." He further says that Paul "knew very little Hebrew".
 
-Watson<sup>[\[5\]](#4)</sup> argues a slightly different angle that Paul had a sociological issue with the law because the it was strict and unattractive to the Gentiles, so Paul decided to abandon some of the difficult commandments and started building theological arguments in a way that appealed to the Gentiles.
+Watson<sup>[\[5\]](#5)</sup> argues a slightly different angle that Paul had a sociological issue with the law because the it was strict and unattractive to the Gentiles, so Paul decided to abandon some of the difficult commandments and started building theological arguments in a way that appealed to the Gentiles.
 
 ## References
 ###### [1]
