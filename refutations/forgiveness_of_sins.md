@@ -6,6 +6,8 @@
 
 Christians often claim that _sins_ can only be forgiven with blood sacrifice and that God had to come down in flesh as Jesus to be the ultimate sacrifice so that there would be no more sacrifices after that. But is **blood offering** a requirement for forgiveness of sins?
 
+## New Testament
+
 [Hebrews 9:22](https://biblehub.com/hebrews/9-22.htm) states _"... without the shedding of blood there is no forgiveness."_ This is according to Paul, as the authorship of Hebrews is attributed to him traditionally. Modern scholarship says otherwise<sup>[\[1\]](#1)</sup>. The Tanakh (Old Testament) though has verses that teach the opposite. Let us first find out the requirements for the sacrifice which are listed in [Leviticus 4](https://biblehub.com/leviticus/4.htm) from verse 3 to 12.
 
 > [3](https://biblehub.com/leviticus/4-3.htm) If the anointed priest sins, bringing guilt on the people, he must bring to the LORD a young bull without blemish as a sin offering for the sin he has committed.
@@ -20,6 +22,8 @@ Christians often claim that _sins_ can only be forgiven with blood sacrifice and
 > [12](https://biblehub.com/leviticus/4-12.htm) all the rest of the bull—he must take outside the camp to a ceremonially clean place where the ashes are poured out, and there he must burn it on a wood fire on the ash heap.
 
 This passage clearly indicates that the sin offering by the priest requires a young, unblemished bull and the steps for the completion of it. Jesus was not, in fact, an unblemished young bull. While the Christian apologist might be inclined to argue that it was metaphorical, or that the jews **didn't really understand it**, we shall point out that all of the prophets at least according to the Old Testament, never quite contradicted this law. Moreover, there are reasons as to why Jesus was not unblemished. First, Jesus was beaten so bad that he was **unrecognizable** even to the most near to him, that **knew** him. Second, Jesus could not have been unblemished from the eighth day of his birth onwards. Why? Because Jesus was circumcised! Yet, Christians that argue that _"Jesus is the way and the truth and the life"_ [John 14:6](https://biblehub.com/john/14-6.htm) don't actually follow the standard Jesus sets for them in circumcision. They follow the standards of Paul in [Romans 2:29](https://biblehub.com/romans/2-29.htm) to only have **circumcision of the heart**, and reject the practice that Jesus himself observed.
+
+## Old Testament
 
 Lets also look at some of the things that the Old Testament states regarding how sins have been forgiven in practice. There is one we can find in [Exodus 30](https://biblehub.com/exodus/30.htm) in verses 15 and 16.
 
@@ -43,19 +47,36 @@ Not only is this against what Paul preached, this is a clear indication of blood
 Again, no blood offering required for the atonement and only gold articles being offered. We see a consistent pattern here in the _old law_ according to the text that repeatedly blood offering is not something that was used as an absolute requirement for the atonement of sins. If this is not enough, we can also look at [1 Samuel](https://biblehub.com/1_samuel/15.htm).
 
 > [22](https://biblehub.com/1_samuel/15-22.htm) But Samuel replied:
->   “Does the LORD delight in burnt offerings and sacrifices
->     as much as in obeying the LORD?
->   To obey is better than sacrifice,
->     and to heed is better than the fat of rams.
->   [23](https://biblehub.com/1_samuel/15-23.htm) For rebellion is like the sin of divination,
->     and arrogance is like the wickedness of idolatry.
->   Because you have rejected the word of the LORD,
->     He has rejected you as king.”
+> “Does the LORD delight in burnt offerings and sacrifices
+> as much as in obeying the LORD?
+> To obey is better than sacrifice,
+> and to heed is better than the fat of rams.
+> [23](https://biblehub.com/1_samuel/15-23.htm) For rebellion is like the sin of divination,
+> and arrogance is like the wickedness of idolatry.
+> Because you have rejected the word of the LORD,
+> He has rejected you as king.”
 
 Here Samuel, a prophet of God in the Tanakh, speaking clearly that about what is more delightful to God is obedience.
 
 As we see throughout the Old Testament, there is no specific blood offering required for the atonement of sins. What is also evident is that Paul does not seem very familiar with the Jewish law in this regard. In fact, there are some scholars that argue this exact point. Lets look at some of these.
 
+## Scholarly View of Paul
+Paul's lack of knowledge or his lack of focus on the importance of law has been the subject of many a scholar. Perhaps the most influential of these is Heikki Räisänen's  work<sup>[\[2\]](#2)</sup> in which he states _“Paul, in his practice, was selective about the law. He regarded it as an adiaphoron, and he treated it as such, too. In Jewish eyes, such an attitude amounted, of course, to a rejection of the Law. The evidence is definitely against the view that Paul scrupulously observed the whole Torah throughout his life”_
+
+Schoeps<sup>[\[3\]](#3)</sup>, a Jewish scholar, argued that Paul fundamentally misunderstood Second Temple Judaism's relationship between covenant and Law. Another scholar, Hyam Maccoby<sup>[\[4\]](#4)</sup>, argued that Paul was not from the tribe of Benjamin as he claimed arguing that he was a Gentile convert from paganism to Judaism having "at best a dilettante's acquaintance with rabbinic Judaism." He further says that Paul "knew very little Hebrew".
+
+Watson<sup>[\[5\]](#4)</sup> argues a slightly different angle that Paul had a sociological issue with the law because the it was strict and unattractive to the Gentiles, so Paul decided to abandon some of the difficult commandments and started building theological arguments in a way that appealed to the Gentiles.
+
 ## References
 ###### [1]
 Donald Guthrie in _New Testament Introduction (1979)_, Harold Attridge, Daniel B. Wallace have said that this is not the work of an apostle or not specifically of Paul. Even Origen and Tertullian cast doubt on the authorship being attributed to Paul for the Epistle of Hebrews.
+###### [2]
+Heikki Räisänen, _Paul and the Law_ (1983, 2nd ed. 1987)
+###### [3]
+Hans-Joachim Schoeps, _Paul: The Theology of the Apostle in the Light of Jewish Religious History_ (1961)
+###### [4]
+Hyam Maccoby, _The Mythmaker: Paul and the Invention of Christianity_ (1986)
+###### [5]
+F. Watson, _Paul, Judaism and the Gentiles_ (1986)
+
+
