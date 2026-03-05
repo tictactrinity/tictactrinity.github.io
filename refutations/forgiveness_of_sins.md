@@ -67,9 +67,11 @@ Schoeps<sup>[\[3\]](#3)</sup>, a Jewish scholar, argued that Paul fundamentally 
 
 Watson<sup>[\[5\]](#5)</sup> argues a slightly different angle that Paul had a sociological issue with the law because the it was strict and unattractive to the Gentiles, so Paul decided to abandon some of the difficult commandments and started building theological arguments in a way that appealed to the Gentiles.
 
+One of the well known instance of Paul not understanding Hebrew is [Galatians 3:16](https://biblehub.com/galatians/3-16.htm) _"He saith not, And to seeds, as of many; but as of one"_. The problem was first highlighted by Jerome<sup>[\[6\](#6)]</sup> where the word used in the Old Testament was **zera (זֶרַע)** whereby the word itself does not indicate whether it is in singular or plural form much like the word _sheep_ in the English language. The context surrounding the word should give us an indication of what the usage of the word is in [Genesis 22](https://biblehub.com/genesis/22.htm). The specific word Paul uses in Greek is **σπερμα (sperma)**, which in Greek does have a plural form **σπέρματα (spermata)**. So this argument by Paul is either misleading on purpose or he genuinely does not understand the Hebrew plurals. Jerome in 4th century CE is arguing _"... the remark here of Paul appears to be a trick of argument, or a quibble more worthy of a trifling Jewish Rabbi, than of a grave reasoner or an inspired man."_ As according to Chandler, _"Jerome affirms that the apostle made use of a false argument, which, although it might appear well enough to the stupid Galatians, would not be approved by wise or learned men."_<sup>[\[7\](#7)]</sup>
+
 ## References
 ###### [1]
-Donald Guthrie in _New Testament Introduction (1979)_, Harold Attridge, Daniel B. Wallace have said that this is not the work of an apostle or not specifically of Paul. Even Origen and Tertullian cast doubt on the authorship being attributed to Paul for the Epistle of Hebrews.
+Donald Guthrie in _New Testament Introduction_ (1979), Harold Attridge, Daniel B. Wallace have said that this is not the work of an apostle or not specifically of Paul. Even Origen and Tertullian cast doubt on the authorship being attributed to Paul for the Epistle of Hebrews.
 ###### [2]
 Heikki Räisänen, _Paul and the Law_ (1983, 2nd ed. 1987)
 ###### [3]
@@ -78,5 +80,8 @@ Hans-Joachim Schoeps, _Paul: The Theology of the Apostle in the Light of Jewish 
 Hyam Maccoby, _The Mythmaker: Paul and the Invention of Christianity_ (1986)
 ###### [5]
 F. Watson, _Paul, Judaism and the Gentiles_ (1986)
-
+###### [6]
+Jerome, _Commentarii in epistulam Pauli apostoli ad Galatas (Commentary on Galatians)_ (386 CE), available in Latin in **Patrologia Latina**, Volume 26 (edited by Migne). Some English translations exist in the _Ancient Christian Texts_ series published by IVP Academic,[Step Bible](https://www.stepbible.org/?q=version=Barnes%7Creference=Gal.3.16-Gal.3.18)
+###### [7]
+Samuel Chandler, _A Paraphrase and Notes on the Epistles of St. Paul to the Galatians and Ephesians: with Doctrinal and Practical Observations. Together with a Critical and Practical Commentary on the Two Epistles of St. Paul to the Thessalonians_ (1777)
 
