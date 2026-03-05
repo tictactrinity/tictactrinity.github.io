@@ -47,6 +47,7 @@ Again, no blood offering required for the atonement and only gold articles being
 >		as much as in obeying the LORD?
 >	To obey is better than sacrifice,
 >		and to heed is better than the fat of rams.
+
 > [23](https://biblehub.com/1_samuel/15-23.htm) For rebellion is like the sin of divination,
 >		and arrogance is like the wickedness of idolatry.
 >	Because you have rejected the word of the LORD,
