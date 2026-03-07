@@ -11,9 +11,9 @@ The New Testament is written in Koine Greek which is largely accepted as a langu
 In the Gospel according to John, Jesus tells us exactly who the **only** true God is. He tells us that he was given authority by Him.
 
 ### John 17:1-3
-###### *[1](https://biblehub.com/john/17-1.htm) When Jesus had spoken these things, He lifted up His eyes to heaven and said, “Father, the hour has come. Glorify Your Son, that Your Son may glorify You.*
-###### *[2](https://biblehub.com/john/17-2.htm) For You granted Him authority over all people, so that He may give eternal life to all those You have given Him.*
-###### *[3](https://biblehub.com/john/17-3.htm) Now this is eternal life, that they may know You, the only true God, and Jesus Christ, whom You have sent.*
+> [1](https://biblehub.com/john/17-1.htm) When Jesus had spoken these things, He lifted up His eyes to heaven and said, “Father, the hour has come. Glorify Your Son, that Your Son may glorify You.
+> [2](https://biblehub.com/john/17-2.htm) For You granted Him authority over all people, so that He may give eternal life to all those You have given Him.
+> [3](https://biblehub.com/john/17-3.htm) Now this is eternal life, that they may know You, the only true God, and Jesus Christ, whom You have sent.
 
 Here, Jesus specifically is talking to the "Father" and says that He is the one that gave Jesus the authority over "all people". Verse [three](https://biblehub.com/john/17-3.htm) is specifically where Jesus singles out the "Father" as the only true God. Muslims specifically see this as Jesus saying his "shahada" (the testimony of faith). Another thing to note here is that the English translations of verse [three](https://biblehub.com/john/17-3.htm) changes the order of how it is written in Greek.
 
@@ -42,3 +42,13 @@ In the [Greek](https://biblehub.com/interlinear/john/17-3.htm) it is as follows:
 
 As we see, the word order **"and whom you have sent, Jesus Christ"** in Greek is not the same as **"and Jesus Christ, whom you have sent"** in English translations. This is often done to put the words _"and Jesus Christ"_ in close close proximity to _"the only True God"_, which Christians often argue includes Jesus.
 
+### Jesus According to Matthew
+There is a passage where Matthew identifies Jesus as something and references the Old Testament's prophecy. In [Matthew 12](https://biblehub.com/bsb/matthew/12.htm), Matthew identifies Jesus as _God's chosen servant_.
+
+> [15](https://biblehub.com/bsb/matthew/12-15.htm) Aware of this, Jesus withdrew from that place. Large crowds followed Him, and He healed them all, [16](https://biblehub.com/bsb/matthew/12-16.htm) warning them not to make Him known. 17This was to fulfill what was spoken through the prophet Isaiah:
+> [18](https://biblehub.com/bsb/matthew/12-18.htm) “Here is My Servant,  
+> whom I have chosen,  
+> My beloved,  
+> in whom My soul delights.  
+> I will put My Spirit on Him,  
+> and He will proclaim justice to the nations.
