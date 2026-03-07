@@ -12,6 +12,6 @@ The forgiveness of sins according to the Christian theology is through Jesus. Bu
 
 ---
 
-### 3. [Paul's Grasp of Hebrew and the Old Law](/refutations/paul_hebrew_law) (07-Mar-2026)
+#### 3. [Paul's Grasp of Hebrew and the Old Law](/refutations/paul_hebrew_law) (07-Mar-2026)
 
 A look at what scholars that doubt Paul say.
