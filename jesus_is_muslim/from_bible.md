@@ -45,7 +45,7 @@ As we see, the word order **"and whom you have sent, Jesus Christ"** in Greek is
 ### Jesus According to Matthew
 There is a passage where Matthew identifies Jesus as something and references the Old Testament's prophecy. In [Matthew 12](https://biblehub.com/bsb/matthew/12.htm), Matthew identifies Jesus as _God's chosen servant_.
 
-> [15](https://biblehub.com/bsb/matthew/12-15.htm) Aware of this, Jesus withdrew from that place. Large crowds followed Him, and He healed them all, [16](https://biblehub.com/bsb/matthew/12-16.htm) warning them not to make Him known. 17This was to fulfill what was spoken through the prophet Isaiah:  
+> [15](https://biblehub.com/bsb/matthew/12-15.htm) Aware of this, Jesus withdrew from that place. Large crowds followed Him, and He healed them all, [16](https://biblehub.com/bsb/matthew/12-16.htm) warning them not to make Him known. [17](https://biblehub.com/bsb/matthew/12-17.htm) This was to fulfill what was spoken through the prophet Isaiah:  
 > [18](https://biblehub.com/bsb/matthew/12-18.htm) “Here is My Servant,  
 > whom I have chosen,  
 > My beloved,  
