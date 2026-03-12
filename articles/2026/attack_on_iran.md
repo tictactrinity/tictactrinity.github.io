@@ -8,7 +8,7 @@ In the opening months of 2026, the Middle East erupted into a conflict that has 
 
 **When leaders and commanders invoke prophecy to justify action, are they witnessing the unfolding of divine will—or are they simply executing a political plan and calling it scripture?**
 
-The distinction matters more than ever. Across the three Abrahamic faiths, the gap between what sacred texts teach and how adherents act in this conflict reveals a fundamental divide: some wait for prophecy; others try to force it.
+The distinction matters more than ever. Among Judaism, Christianity and Islam, the gap between what sacred texts teach and how adherents act in this conflict reveals a fundamental divide: some wait for prophecy; others try to force it.
 
 ---
 
