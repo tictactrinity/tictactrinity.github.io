@@ -1,6 +1,6 @@
-###### Author: Fasih Rana
+# Fasih Rana
 
-Welcome to my blog, where I present some of the arguments against Trinitarianism and Christianity as well as tackle some of the arguments people bring against Islam.
+Welcome to my site, where I look at theology, politics, current events. I present some arguments against Trinitarianism and Christianity as well as tackle some arguments against Islam.
 
 ---
 
@@ -19,3 +19,9 @@ Conversations regarding why Jesus is Muslim
 #### [Refutations](/refutations/)
 
 Various refutations, for analogies of trinity etc.
+
+---
+
+#### [Articles](/articles/)
+
+Miscellaneous articles based on current events with the theological lens.
