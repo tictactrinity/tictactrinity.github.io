@@ -24,7 +24,7 @@ In Mark 13, the disciples ask Jesus for a sign of the end, and his response esta
  
 The timing is withheld, from angels, from Jesus himself. The withholding is deliberate: the architecture of the teaching is that knowledge of the end is kept from every creature precisely so that no creature can calculate and act on it. The servants are assigned tasks and told to stay at their posts.
  
-Luke sharpens this: "Take heed to yourselves, lest at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and so that day come upon you unawares." (Luke 21:34) [[4]](#3)
+Luke sharpens this: "Take heed to yourselves, lest at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and so that day come upon you unawares." (Luke 21:34) [[4]](#4)
  
 R.C. Sproul of Ligonier Ministries wrote that Jesus' own admission of not knowing the hour "is a warning to anyone who might try to set a date for His return," and that believers are "wasting time" trying to calculate it. [[5]](#5) Acts 1:7 repeats the same principle at the close of Jesus' ministry: "It is not for you to know the times or dates the Father has set by his own authority." [[6]](#6) The principle appears at the beginning and the end of Jesus' ministry, the same command repeated.
  
