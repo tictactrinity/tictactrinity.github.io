@@ -152,7 +152,7 @@ The verse that acknowledged humanity was made of haste was written for exactly t
  
 <a id="8">[8]</a> "Biblical 'Red Heifers' in Israel Stoke Apocalyptic Fears." *The National News*, February 15, 2026. [https://www.thenationalnews.com/news/mena/2026/02/15/biblical-red-heifers-in-israel-stoke-apocalyptic-fears/](https://www.thenationalnews.com/news/mena/2026/02/15/biblical-red-heifers-in-israel-stoke-apocalyptic-fears/).
  
-<a id="9">[9]</a> Sprinzak, Ehud. *The Ascendance of Israel's Radical Right*. New York: Oxford University Press, 1991. Historical record of the Gush Emunim Underground and the 1980s Dome of the Rock plot.
+<a id="9">[9]</a> "Jewish Underground." Wikipedia. Last modified February 2026. [https://en.wikipedia.org/wiki/Jewish_Underground](https://en.wikipedia.org/wiki/Jewish_Underground). See also: Sprinzak, Ehud. The Ascendance of Israel's Radical Right. New York: Oxford University Press, 1991.
  
 <a id="10">[10]</a> Goldstein, Baruch. Ibrahimi Mosque massacre, Hebron, February 25, 1994. Historical record.
  
