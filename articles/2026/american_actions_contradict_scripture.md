@@ -4,7 +4,7 @@
  
 ---
  
-On February 28, 2026, the United States and Israel launched a coordinated surprise attack on Iran, killing Supreme Leader Ayatollah Ali Khamenei, his daughter, son-in-law, and grandson, along with the defense minister and the IRGC commander. Iranian state media confirmed at least 201 civilians killed across 24 provinces. Iran retaliated with missile and drone strikes on US bases, Gulf states, and Israel. [1]
+On February 28, 2026, the United States and Israel launched a coordinated surprise attack on Iran, killing Supreme Leader Ayatollah Ali Khamenei, his daughter, son-in-law, and grandson, along with the defense minister and the IRGC commander. Iranian state media confirmed at least 201 civilians killed across 24 provinces. Iran retaliated with missile and drone strikes on US bases, Gulf states, and Israel. [[1]](#1)
  
 American commanders told troops this was God's plan. Officials framed it in biblical terms. The Military Religious Freedom Foundation began receiving complaints within days, service members reporting that their commanders were citing the Book of Revelation and calling the war a step toward Armageddon. By March 2, they had documented more than 200 complaints across 50 installations. [2]
  
@@ -245,7 +245,7 @@ The one who acts to force the end is not a prophet. They are a project manager. 
  
 ## References
  
-[1] Multiple sources on the February 28, 2026 strikes and their immediate aftermath:
+<a id="1">[1]</a> Multiple sources on the February 28, 2026 strikes and their immediate aftermath:
  
 - Al Jazeera. "Iran's Supreme Leader Ali Khamenei Killed in US-Israeli Attacks." February 28, 2026. [https://www.aljazeera.com/news/2026/2/28/irans-supreme-leader-ali-khamenei-killed-in-us-israeli-attacks-reports](https://www.aljazeera.com/news/2026/2/28/irans-supreme-leader-ali-khamenei-killed-in-us-israeli-attacks-reports)
 - Al Jazeera. "Who Are Iran's Senior Figures Killed in US-Israeli Attacks?" March 1, 2026. [https://www.aljazeera.com/news/2026/3/1/who-are-irans-senior-figures-killed-in-us-israeli-attacks](https://www.aljazeera.com/news/2026/3/1/who-are-irans-senior-figures-killed-in-us-israeli-attacks)
