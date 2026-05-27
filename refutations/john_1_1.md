@@ -1,4 +1,4 @@
-# John 1:1 as Greek/Indian Philosophical Import: A Textual and Historical Argument
+# [Refutations](/refutations/) > John 1:1 as Greek/Indian Philosophical Import: A Textual and Historical Argument
 
 ## Premise
 
