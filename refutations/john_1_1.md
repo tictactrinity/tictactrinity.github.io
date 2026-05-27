@@ -22,12 +22,24 @@ John 1:1 therefore represents the author's interpretive framework — not the se
 
 The following passage from the **Shatapatha Brahmana**, a text of the Vedic corpus predating Christianity by centuries, reads:
 
+> प्रजापतिर्वै इदमग्र आसीत् ।
+> तस्य वाक् द्वितीया आसीत् ।
+> वाग्वै परमं ब्रह्म ॥
+
+and Sandhi as:
+
+> प्रजापतिर्वा इदमग्र आसीत् ।
+> तस्य वाग्द्वितीया आसीत् ।
+> वाग्वै परं ब्रह्म ॥
+
+Transliteration and tranlsation:
+
 > *"Prajapati vai idam agra asit, tasya vak dvitiya asit, vak vai prahman brahman."*
 > **"In the beginning was Prajapati, with him was the Word (Vak), and the Word was verily the Supreme Brahman."**
 
 The structural parallel to John 1:1 is precise:
 
-| Shatapatha Brahmana | John 1:1 |
+| Vedic sources<sup>[\[1\]](#1)</sup> | John 1:1 |
 |---|---|
 | In the beginning was Prajapati | In the beginning was Word |
 | With him was Vak (Word) | The Word was with God |
@@ -90,3 +102,9 @@ John 1:1 cannot bear the theological weight Trinitarians place upon it for the f
 - Jesus's **own words in John 17:3** identify the Father exclusively as the only true God
 
 The most historically and textually honest conclusion is that John 1:1 represents a theologian synthesizing the rich intellectual tradition surrounding him — not a unique supernatural revelation, and not the self-testimony of Jesus Christ.
+
+## References
+###### [1] Vedic Sources
+काठकसंहिता १२.५.२७ - KS 12.5.27
+कपिष्ठलकाठसंहिता ४२.१ - KapS 42.1
+जैमिनीयब्राह्मण २.२२४४ - JB 2.2244
