@@ -22,14 +22,14 @@ John 1:1 therefore represents the author's interpretive framework — not the se
 
 The following passage from the **Shatapatha Brahmana**, a text of the Vedic corpus predating Christianity by centuries, reads:
 
-> प्रजापतिर्वै इदमग्र आसीत् ।
-> तस्य वाक् द्वितीया आसीत् ।
+> प्रजापतिर्वै इदमग्र आसीत् ।  
+> तस्य वाक् द्वितीया आसीत् ।  
 > वाग्वै परमं ब्रह्म ॥
 
 and Sandhi as:
 
-> प्रजापतिर्वा इदमग्र आसीत् ।
-> तस्य वाग्द्वितीया आसीत् ।
+> प्रजापतिर्वा इदमग्र आसीत् ।  
+> तस्य वाग्द्वितीया आसीत् ।  
 > वाग्वै परं ब्रह्म ॥
 
 Transliteration and tranlsation:
@@ -106,6 +106,6 @@ The most historically and textually honest conclusion is that John 1:1 represent
 ## References
 ###### [1]
 **Vedic Sources**
-काठकसंहिता १२.५.२७ - KS 12.5.27
-कपिष्ठलकाठसंहिता ४२.१ - KapS 42.1
-जैमिनीयब्राह्मण २.२२४४ - JB 2.2244
+काठकसंहिता १२.५.२७ - KS 12.5.27  
+कपिष्ठलकाठसंहिता ४२.१ - KapS 42.1  
+जैमिनीयब्राह्मण २.२२४४ - JB 2.2244  
