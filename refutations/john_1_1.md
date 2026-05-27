@@ -104,7 +104,8 @@ John 1:1 cannot bear the theological weight Trinitarians place upon it for the f
 The most historically and textually honest conclusion is that John 1:1 represents a theologian synthesizing the rich intellectual tradition surrounding him — not a unique supernatural revelation, and not the self-testimony of Jesus Christ.
 
 ## References
-###### [1] Vedic Sources
+###### [1]
+**Vedic Sources**
 काठकसंहिता १२.५.२७ - KS 12.5.27
 कपिष्ठलकाठसंहिता ४२.१ - KapS 42.1
 जैमिनीयब्राह्मण २.२२४४ - JB 2.2244
