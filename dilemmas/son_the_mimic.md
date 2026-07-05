@@ -3,7 +3,7 @@
 Author: Fasih rana
 Date: 5-July-2026
 
-Jesus in [John 5:19)(https://biblehub.com/john/5-19.htm) says:
+Jesus in [John 5:19](https://biblehub.com/john/5-19.htm) says:
 
 > Jesus gave them this answer: “Very truly I tell you, the Son can do nothing by himself; he can do only what he sees his Father doing, because whatever the Father does the Son also does.
 
