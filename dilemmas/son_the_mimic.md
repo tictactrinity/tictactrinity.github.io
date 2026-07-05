@@ -1,7 +1,7 @@
 # [Dilemmas](/dilemmas/) > Son the Mimic
 
-Author: Fasih rana
-Date: 5-July-2026
+Author: Fasih Rana  
+Date: 5-July-2026  
 
 Jesus in [John 5:19](https://biblehub.com/john/5-19.htm) says:
 
