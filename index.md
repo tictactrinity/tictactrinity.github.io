@@ -16,6 +16,12 @@ Conversations regarding why Jesus is Muslim
 
 ---
 
+#### [Dilemmas](/dilemmas/)
+
+Dilemmas of other faiths/religions
+
+---
+
 #### [Refutations](/refutations/)
 
 Various refutations, for analogies of trinity etc.
