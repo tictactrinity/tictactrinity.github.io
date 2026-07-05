@@ -9,6 +9,8 @@ Jesus in [John 5:19)(https://biblehub.com/john/5-19.htm) says:
 
 Here are the questions for Christians if they say that Jesus is one of the trinity:
 
-Q1) Where does the Son see the Father die?
-Q2) Where does the Son see the Father resurrect?
-Q3) Where does the Son see the Father take on flesh?
+**Q1)** Where does the Son see the Father die? 
+**Q2)** Where does the Son see the Father resurrect? 
+**Q3)** Where does the Son see the Father take on flesh? 
+
+Well according to Christian theology, Father didn't do any of those things. It was the Son that did it. So where does the Son see the Father do any of it?
