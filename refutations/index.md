@@ -12,6 +12,11 @@ Can proponents of the Bible show whether John 1:1 is not a Greek/Indian philosop
 
 ---
 
+#### 2. [John 10:30](/refutations/john_10_30) (13-Jul-2026)
+
+What did Jesus claim to be in John 10:30?
+
+---
 #### 3. [Forgiveness of Sins](/refutations/forgiveness_of_sins) (24-Sep-2025)
 
 The forgiveness of sins according to the Christian theology is through Jesus. But is it consistent with the Old Testament?
