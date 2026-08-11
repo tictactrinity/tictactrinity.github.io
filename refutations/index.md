@@ -12,9 +12,9 @@ Can proponents of the Bible show whether John 1:1 is not a Greek/Indian philosop
 
 ---
 
-#### 2. [John 10:30](/refutations/john_10_30) (13-Jul-2026)
+#### 2. [John 10:30](/refutations/john_10_30/)
 
-What did Jesus claim to be in John 10:30?
+Refutations for John 10:30 when presented as a proof-text for Jesus being "God".
 
 ---
 #### 3. [Forgiveness of Sins](/refutations/forgiveness_of_sins) (24-Sep-2025)

@@ -1,4 +1,4 @@
-# [Refutations](/refutations/) >  What the Word "God" Erased: Reconstructing John 10:30-36 in Hebrew and Aramaic
+# [Refutations](/refutations/) > [John 10:30](/refutations/john_10_30/) >  What the Word "God" Erased: Reconstructing John 10:30-36 in Hebrew and Aramaic
 
 Author: Fasih Rana  
 Date: 13-July-2026  
