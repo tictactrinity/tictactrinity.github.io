@@ -5,9 +5,13 @@ Date: 11-Aug-2026
 
 ## Argumnent
 
+This argument is specifically targeted towards trinitarians that use John 10:30 as proof text for claim of jesus' divinity.
+
+## Premises
+
 P1. Jesus always tells the truth.  
 P2. In John 10:30 Jesus claims ontological divinity.  
-P3. Jesus does not dispute the charge in John 10:33 that He made Himself equal to God, making the accusation legitimate by His own silence.  
+P3. Jesus does not dispute the charge in John 10:33 that He made Himself equal to God, making the accusation legitimate.  
 P4. Jesus rather than correcting them, affirms his ontological divinity by using "god" as a scripturally valid and legitimate designator in John 10:34 referring back to Psalm 82:6.  
 
 ## Conclusions
