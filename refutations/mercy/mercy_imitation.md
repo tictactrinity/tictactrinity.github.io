@@ -1,5 +1,8 @@
 # [Refutations](/refutations/) > [Mercy](/refutations/mercy/) > Imitation of Mercy
 
+Author: Fasih Rana
+Dated: 26-September-2026
+
 ## Introduction
 In the Gospel of Luke Jesus leaves a way to show mercy. This is a test of how people need to show mercy to transgressors against themselves.
 
@@ -10,4 +13,4 @@ In the Gospel of Luke Jesus leaves a way to show mercy. This is a test of how pe
 **P4**. To imitate this mercy per P1 and P2 is to replicate the mechanism itself.
 
 ## Conclusion
-Therefore, an adherent of Jesus who believes P2 must be prepared to offer himself, or his own son, to be sacrificed for a sin committed against himself or his father.
+Therefore, a follower of Jesus who believes P2 must be prepared to offer himself, or his own son, to be sacrificed for a sin committed against himself or his father.
