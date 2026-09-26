@@ -32,3 +32,9 @@ A look at what scholars that doubt Paul say.
 #### 5. [John 5](/refutations/john_5) (19-Aug-2026)
 
 Does Jesus judge on his own?
+
+---
+
+#### 6. [Mercy](/refutations/mercy)
+
+Refutations of Mercy model of Substitute Atonement.
