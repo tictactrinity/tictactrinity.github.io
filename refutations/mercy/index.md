@@ -1,3 +1,3 @@
 # [Refutations](/refutations/) > Mercy
 
-#### 1. [Mercy Imitation](/refutations/mercy_imitation)
+#### 1. [Mercy Imitation](/refutations/mercy/mercy_imitation)
