@@ -10,4 +10,4 @@ In the Gospel of Luke Jesus leaves a way to show mercy. This is a test of how pe
 **P4**. Suffering death at the hands of, and for the sin of, a third party does not will the good of the one who suffers, using him instrumentally.
 
 ## Conclusion
-Therefore this act fails what love-toward-its-object requires (P2 + P4), contradicting P1's claim that God is love without remainder. Since sacrificing your son for a sin committed by someone else against you is not an act of love toward the son, the Trinitarian God cannot be the perfect expression of love as Trinitarians propose.
+Therefore, an adherent of Jesus who believes P2 must be prepared to offer himself, or his own son, to be sacrificed for a sin committed against himself or his father.
