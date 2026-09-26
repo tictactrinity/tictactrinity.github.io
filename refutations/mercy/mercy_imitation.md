@@ -1,6 +1,6 @@
 # [Refutations](/refutations/) > [Mercy](/refutations/mercy/) > Imitation of Mercy
 
-Author: Fasih Rana
+Author: Fasih Rana  
 Dated: 26-September-2026
 
 ## Introduction

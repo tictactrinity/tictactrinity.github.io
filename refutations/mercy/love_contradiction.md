@@ -1,5 +1,6 @@
 # [Refutations](/refutations/) > [Mercy](/refutations/mercy/) > Love Contradiction
-Author: Fasih Rana
+
+Author: Fasih Rana  
 Dated: 26-September-2026
 
 ## Introduction
