@@ -5,3 +5,5 @@
 #### 2. [Love Contradiction](/refutations/mercy/love_contradiction)
 
 #### 3. [Does God Need Love?](/refutations/mercy/does_god_need_love)
+
+#### 4. [Self Loving God](/refutations/mercy/self_love)
