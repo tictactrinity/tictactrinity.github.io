@@ -1,4 +1,4 @@
-# [Refutations](/refutations/) > [Mercy](/refutations/mercy_and_love/) > Self Loving God
+# [Refutations](/refutations/) > [Mercy and Love](/refutations/mercy_and_love/) > Self Loving God
 
 Author: Fasih Rana  
 Dated: 27-September-2026

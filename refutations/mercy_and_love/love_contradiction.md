@@ -1,4 +1,4 @@
-# [Refutations](/refutations/) > [Mercy](/refutations/mercy_and_love/) > Love Contradiction
+# [Refutations](/refutations/) > [Mercy and Love](/refutations/mercy_and_love/) > Love Contradiction
 
 Author: Fasih Rana  
 Dated: 26-September-2026
