@@ -1,4 +1,4 @@
-# [Refutations](/refutations/) > [Mercy](/refutations/mercy/) > Does God Need Love?
+# [Refutations](/refutations/) > [Mercy](/refutations/mercy_and_love/) > Does God Need Love?
 
 Author: Fasih Rana  
 Dated: 26-September-2026
