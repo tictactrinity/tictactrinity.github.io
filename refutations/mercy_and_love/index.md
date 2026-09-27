@@ -11,3 +11,5 @@
 #### 5. [Love is not a Person?](/refutations/mercy_and_love/love_is_not_a_person)
 
 #### 6. [Essence Inconsistency](/refutations/mercy_and_love/essence_inconsistency)
+
+#### 7. [Selective Incarnation](/refutations/mercy_and_love/selective_incarnation)
