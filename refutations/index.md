@@ -35,6 +35,6 @@ Does Jesus judge on his own?
 
 ---
 
-#### 6. [Mercy](/refutations/mercy_and_love)
+#### 6. [Mercy and Love](/refutations/mercy_and_love)
 
 Refutations of Mercy and Love as described by trinitarians.
