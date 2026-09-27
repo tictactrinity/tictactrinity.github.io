@@ -1,4 +1,4 @@
-# [Refutations](/refutations/) > [Mercy and Love](/refutations/mercy_and_love/) > Selective
+# [Refutations](/refutations/) > [Mercy and Love](/refutations/mercy_and_love/) > Selective Incarnation
 Author: Fasih Rana  
 Dated: 27-September-2026
 
